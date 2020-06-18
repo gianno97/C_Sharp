@@ -8,3 +8,12 @@ E:\Cartella_di_lavoro\SnakeDefinitiveEdition\SnakeDefinitiveEdition\obj\Debug\Sn
 E:\Cartella_di_lavoro\SnakeDefinitiveEdition\SnakeDefinitiveEdition\obj\Debug\SnakeDefinitiveEdition.csproj.CoreCompileInputs.cache
 E:\Cartella_di_lavoro\SnakeDefinitiveEdition\SnakeDefinitiveEdition\obj\Debug\SnakeDefinitiveEdition.exe
 E:\Cartella_di_lavoro\SnakeDefinitiveEdition\SnakeDefinitiveEdition\obj\Debug\SnakeDefinitiveEdition.pdb
+E:\C#\C_Sharp\Snake\Snake\bin\Debug\SnakeDefinitiveEdition.exe.config
+E:\C#\C_Sharp\Snake\Snake\bin\Debug\SnakeDefinitiveEdition.exe
+E:\C#\C_Sharp\Snake\Snake\bin\Debug\SnakeDefinitiveEdition.pdb
+E:\C#\C_Sharp\Snake\Snake\obj\Debug\SnakeDefinitiveEdition.Form1.resources
+E:\C#\C_Sharp\Snake\Snake\obj\Debug\SnakeDefinitiveEdition.Properties.Resources.resources
+E:\C#\C_Sharp\Snake\Snake\obj\Debug\SnakeDefinitiveEdition.csproj.GenerateResource.cache
+E:\C#\C_Sharp\Snake\Snake\obj\Debug\SnakeDefinitiveEdition.csproj.CoreCompileInputs.cache
+E:\C#\C_Sharp\Snake\Snake\obj\Debug\SnakeDefinitiveEdition.exe
+E:\C#\C_Sharp\Snake\Snake\obj\Debug\SnakeDefinitiveEdition.pdb
